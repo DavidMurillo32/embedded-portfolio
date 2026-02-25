@@ -61,7 +61,7 @@ Universidad Surcolombiana | 2018-2024
 
 **David Santiago Murillo Hernández**
 - Email: dasan46@outlook.com
-- Location: Bogotá, Colombia
+- Location: Neiva, Colombia
 - Phone: +57 (310) 200 6480
 - GitHub: [@DavidMurillo32](https://github.com/DavidMurillo32)
 
