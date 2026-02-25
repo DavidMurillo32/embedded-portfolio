@@ -90,15 +90,12 @@ Core 0:                           Core 1:
 01-freertos-multitask/
 ├── src/
 │   └── main.cpp
-├── diagrams/
-│   ├── system_architecture.png
-│   └── task_flow.png
-├── wokwi/
-│   └── diagram.json
+├── diagram.json
+├── platformio.ini
+├── wokwi.toml
 ├── images/
 │   └── lcd_display.png
 ├── README.md
-└── LICENSE
 ```
 
 ## 🚀 How to Run
