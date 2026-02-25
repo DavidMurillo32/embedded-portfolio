@@ -211,7 +211,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 **David Santiago Murillo Hernández**
 - GitHub: [@DavidMurillo32](https://github.com/DavidMurillo32)
 - Email: dasan46@outlook.com
-- LinkedIn: [Add your LinkedIn URL]
+- LinkedIn: www.linkedin.com/in/david-santiago-murillo-hernández-3902b7313
 
 ---
 
